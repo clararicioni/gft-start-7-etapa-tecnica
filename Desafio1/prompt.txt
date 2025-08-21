@@ -1,0 +1,1 @@
+Considerando as classes e objetos que permitem manipulação de strings no C#, qual logica você utilizaria para substituir vogais por caracteres em uma frase?
