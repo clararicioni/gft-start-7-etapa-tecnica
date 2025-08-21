@@ -1,0 +1,2 @@
+Seguindo as boas práticas de POO, em um sistema de gestão de contatos com agenda,
+métodos como AdicionarContato, ListarContatos, BuscarContatos devem pertencer a classe Contato ou Agenda?
