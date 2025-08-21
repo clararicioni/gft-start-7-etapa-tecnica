@@ -1,0 +1,1 @@
+Qual a melhor forma de aplicar o polimorfismo em C# para multiplas classes?

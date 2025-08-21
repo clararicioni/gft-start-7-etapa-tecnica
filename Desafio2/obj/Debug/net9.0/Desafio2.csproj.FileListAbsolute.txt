@@ -1,0 +1,15 @@
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\obj\Debug\net9.0\Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\obj\Debug\net9.0\Desafio2.AssemblyInfoInputs.cache
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\obj\Debug\net9.0\Desafio2.AssemblyInfo.cs
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\obj\Debug\net9.0\Desafio2.csproj.CoreCompileInputs.cache
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\obj\Debug\net9.0\Desafio2.sourcelink.json
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\bin\Debug\net9.0\Desafio2.exe
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\bin\Debug\net9.0\Desafio2.deps.json
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\bin\Debug\net9.0\Desafio2.runtimeconfig.json
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\bin\Debug\net9.0\Desafio2.dll
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\bin\Debug\net9.0\Desafio2.pdb
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\obj\Debug\net9.0\Desafio2.dll
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\obj\Debug\net9.0\refint\Desafio2.dll
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\obj\Debug\net9.0\Desafio2.pdb
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\obj\Debug\net9.0\Desafio2.genruntimeconfig.cache
+C:\users\clara\gft-start-7-etapa-tecnica\Desafio2\obj\Debug\net9.0\ref\Desafio2.dll
